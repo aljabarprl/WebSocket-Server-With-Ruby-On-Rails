@@ -11,6 +11,8 @@
 *.erb diff=ruby
 *.inc.rs linguist-generated=true
 bin svn-properties=svn:ignore=ruby
+*.html.erb linguist-language=Ruby
+*.erb linguist-language=Ruby
 bin/* diff=ruby
 tool/update-deps diff=ruby
 tool/make-snapshot diff=ruby
