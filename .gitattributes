@@ -1,0 +1,15 @@
+* text=auto
+*.gemspec diff=ruby
+*.rb diff=ruby
+*.rake diff=rakefile
+*.rabl diff=ruby
+*.rhtml diff=ruby
+*.ru diff=ruby
+*.ruby-version diff=ruby
+*.inc.rs linguist-generated=true
+bin svn-properties=svn:ignore=ruby
+bin/* diff=ruby
+tool/update-deps diff=ruby
+tool/make-snapshot diff=ruby
+tool/format-release diff=ruby
+tool/leaked-globals diff=ruby
