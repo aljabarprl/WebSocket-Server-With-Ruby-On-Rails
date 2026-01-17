@@ -6,6 +6,9 @@
 *.rhtml diff=ruby
 *.ru diff=ruby
 *.ruby-version diff=ruby
+*.html.erb diff=ruby
+*.html diff=ruby
+*.erb diff=ruby
 *.inc.rs linguist-generated=true
 bin svn-properties=svn:ignore=ruby
 bin/* diff=ruby
