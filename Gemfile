@@ -18,7 +18,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem 'em-websocket', '~> 0.5.3'
-gem 'json', '~> 2.18'
+gem 'json', '~> 2.19'
 gem 'securerandom', '~> 0.4.1'
 gem 'sqlite3', '~> 2.9'
 
